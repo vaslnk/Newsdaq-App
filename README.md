@@ -1,4 +1,4 @@
-# Newsdaq - A news visualization tool that helps users learn about the history of the stock market and make predictions on future data.
+# Newsdaq - A news visualization tool that helps users learn about the history of the stock market and make predictions on future data. ([Walkthrough Video](https://www.youtube.com/watch?time_continue=5&v=HfoYUYTZ1HU))
 ![Imgur](https://i.imgur.com/pDHK32R.jpg)
 Newsdaq is a news data acquisition (daq) tool to help users visualize the impact of current events on the markets, as well as correlate article polarity with future events.
 

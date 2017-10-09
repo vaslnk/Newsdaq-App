@@ -1,0 +1,6 @@
+framework module Pods_CalHacksBigManTing {
+  umbrella header "Pods-CalHacksBigManTing-umbrella.h"
+
+  export *
+  module * { export * }
+}

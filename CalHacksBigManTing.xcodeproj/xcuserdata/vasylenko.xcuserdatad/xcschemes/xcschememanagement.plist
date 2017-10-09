@@ -7,7 +7,25 @@
 		<key>CalHacksBigManTing.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>F4A39A2E1F8953FD00589912</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4A39A421F8953FE00589912</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4A39A4D1F8953FE00589912</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

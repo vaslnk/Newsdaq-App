@@ -1,0 +1,6 @@
+framework module Pods_CalHacksBigManTingUITests {
+  umbrella header "Pods-CalHacksBigManTingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

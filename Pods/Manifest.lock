@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.5.0)
+  - SwiftCharts (0.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - SwiftCharts (from `https://github.com/i-schuetz/SwiftCharts.git`)
+
+EXTERNAL SOURCES:
+  SwiftCharts:
+    :git: https://github.com/i-schuetz/SwiftCharts.git
+
+CHECKOUT OPTIONS:
+  SwiftCharts:
+    :commit: 6c9bed2534d0e9c2319e5c003a5f7e0461df6ff7
+    :git: https://github.com/i-schuetz/SwiftCharts.git
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  SwiftCharts: 84f84c2a94a3f51f055eeaacd9b8dc3ada3380eb
+
+PODFILE CHECKSUM: 7c620458e7fb7b528311679dcd4f038446a51b47
+
+COCOAPODS: 1.2.1
